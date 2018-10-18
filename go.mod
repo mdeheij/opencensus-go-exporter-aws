@@ -1,4 +1,4 @@
-module contrib.go.opencensus.io/exporter/aws
+module opencensus-go-exporter-aws
 
 require (
 	github.com/aws/aws-sdk-go v1.15.27
